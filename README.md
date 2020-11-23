@@ -1,5 +1,5 @@
 # tmap
-tmap is a very fast visualization library for large, high-dimensional data sets. Currently, tmap is available for Python. tmaps graph layouts are based on the [OGDF](https://ogdf.uos.de/) library. **Therefore the goal of this project is to make it the `C++` library accessable through a native R interface.**
+tmap is a very fast visualization library for large, high-dimensional data sets. Currently, tmap is available for Python. tmaps graph layouts are based on the [OGDF](https://ogdf.uos.de/) library. **Therefore the goal of this project is to make the `C++` library accessable through a native R interface.**
 
 ### Tutorial and Documentation
 See <a href="http://tmap.gdb.tools">http://tmap.gdb.tools</a>
