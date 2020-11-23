@@ -1,5 +1,5 @@
 # tmap
-tmap is a very fast visualization library for large, high-dimensional data sets. Currently, tmap is available for Python. tmaps graph layouts are based on the [OGDF](https://ogdf.uos.de/) library.
+tmap is a very fast visualization library for large, high-dimensional data sets. Currently, tmap is available for Python. tmaps graph layouts are based on the [OGDF](https://ogdf.uos.de/) library. **Therefore the goal of this project is to make it the `C++` library accessable through a native R interface.**
 
 ### Tutorial and Documentation
 See <a href="http://tmap.gdb.tools">http://tmap.gdb.tools</a>
@@ -33,15 +33,10 @@ See <a href="http://tmap.gdb.tools">http://tmap.gdb.tools</a>
 [wanted](https://github.com/reymond-group/tmap)\!</span>
 
 ### Installation
-tmap is installed using the conda package manager. Don't have conda? Download miniconda.
 
-```bash
-conda install -c tmap tmap
-```
-
-We suggest using faerun to plot the data layed out by tmap. But you can of course also use matplotlib (which might be to slow for large data sets and doesn't provide interactive features).
-
-```bash
-pip install faerun
-# pip install matplotlib
+```r
+# The easiest way to get ddnomic is to install 
+# the development version from GitHub:
+# install.packages("devtools")
+remotes::install_github("domiden/tmap")
 ```
