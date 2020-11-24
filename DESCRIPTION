@@ -8,7 +8,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "dominic.dennenmoser@uni-kassel.de",
            comment = c(ORCID = "0000-0002-9958-8830"))
-Description: TMAP (tree manifold approximation and projection) is a isualization 
+Description: TMAP (tree manifold approximation and projection) is a visualization 
 methode of very large high‑dimensional data sets as minimum spanning trees. 
 Graph layouts in tmap are based on the OGDF library. The goal of this package is 
 to make the library accessable through a native R interface.
