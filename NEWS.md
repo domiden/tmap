@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.0-dev] - 2020-11-23
 ### Added
 - Changlog for documenting notable changes
+- Basic R package strukture
 
 ### Changed
 - Readme have been updated
+
+### Removed
+- Most of Python-related files
