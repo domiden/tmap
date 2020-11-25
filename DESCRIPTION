@@ -9,10 +9,10 @@ Authors@R:
            email = "dominic.dennenmoser@uni-kassel.de",
            comment = c(ORCID = "0000-0002-9958-8830"))
 Description: TMAP (tree manifold approximation and projection) is a 
-visualization methode of very large high‑dimensional data sets as minimum 
-spanning trees. Graph layouts in tmapr are based on the OGDF's library (C++ ). 
-The goal of this package is to make the library accessable through a native R 
-interface.
+    visualization methode of very large high‑dimensional data sets as minimum 
+    spanning trees. Graph layouts in tmapr are based on the OGDF's library 
+    (C++). The goal of this package is to make the library accessable through 
+    a native R interface.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
