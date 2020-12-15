@@ -12,8 +12,7 @@ through a native `R` interface.**
 | :exclamation: | Currently not working, please do not install it! |
 |---------------|:-------------------------------------------------|
 
-
-The easiest way to get ddnomic is to install the development version from 
+The easiest way to get `tmap` is to install the development version from
 GitHub:
 
 ```r
@@ -22,7 +21,6 @@ remotes::install_github("domiden/tmapr")
 ```
 
 ## References
-
 
 - Probst, D., and Reymond, J.-L. (2020): Visualization of very large high-dimensional data sets as minimum spanning trees. Journal of Cheminformatics 12:12.
   
