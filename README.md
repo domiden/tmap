@@ -1,6 +1,8 @@
 
 # `tmapr`
 
+**Moved repository to [Codeberg](https://codeberg.org/domiden/tmapr)**.
+
 [`tmap`](../../../../reymond-group/tmap) is a very fast visualization library
 for large, high-dimensional data sets (Probst & Reymond 2020). Currently, `tmap` is available for
 `Python` only. `tmap`'s graph layouts are based on the [OGDF](https://ogdf.uos.de/)
